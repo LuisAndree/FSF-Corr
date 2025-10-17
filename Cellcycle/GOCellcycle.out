@@ -1,7 +1,7 @@
 Clus run GOCellcycleTreino
 **************************
 
-Date: 16/10/2025 16:25
+Date: 17/10/2025 09:35
 File: GOCellcycle.out
 Attributes: 31 (input: 30, output: 1)
 Missing values: No
@@ -104,8 +104,8 @@ Statistics
 ----------
 
 FTValue (FTest): 0.05
-Induction Time: 2.593 sec
-Pruning Time: 0.106 sec
+Induction Time: 2.171 sec
+Pruning Time: 0.144 sec
 Model information
      Default: Nodes = 1 (Leaves: 1)
      Original: Nodes = 29 (Leaves: 15)
