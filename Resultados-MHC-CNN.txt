@@ -1,7 +1,7 @@
-GOCellcycle = 
+GOCellcycle = 0.1287932513152694
 GOChurch = 
 GODerisi = 0.1069205144058605
-GOEisen = 
+GOEisen = 0.14335086831212993
 GOExpr = 
 GOGasch1 = 
 GOGasch2 = 
