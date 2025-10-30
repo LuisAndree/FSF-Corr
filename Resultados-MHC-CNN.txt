@@ -1,2 +1,10 @@
-
+GOCellcycle = 
+GOChurch = 
+GODerisi = 0.1069205144058605
+GOEisen = 
+GOExpr = 
+GOGasch1 = 
+GOGasch2 = 
 GOPheno = 0.12716365188683773
+GOSeq =
+GOSpo =
